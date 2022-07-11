@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Dustin
-#### I am currently learning C#
+#### I am currently learning JS
 ![I am currently learning JS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU)
 
 I program in my spare time just for fun ;D
 
-Skills: C# / Python / HTML / CSS / JS
+Skills: Python / HTML / CSS / JS
 
 -
 - 🌱 I’m currently learning JS
